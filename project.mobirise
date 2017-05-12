@@ -1,0 +1,225 @@
+{
+  "settings": {
+    "name": "CompreCasaSinEnganche",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 9,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x120.png",
+    "noImageResize": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/house-pic-for-head-final-2000x1331.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "¡COMPRE CASA SIN ENGANCHE!",
+          "text": "Nuevo programa le ayuda a pagar el enganche y los costos de papeleo.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MÁS INFORMACIÓN</a>",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "48px"
+            },
+            "P": {
+              "color": "#020e31"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2",
+          "text": "• Financiamiento para FHA y Convencional<div>• Máximo 5 acres</div><div>• Necesita crédito mínimo de 640</div><div>• Para primeros compradores y quienes ya hayan tenido casa*</div><div>• Préstamo máximo no puede ser más de los límites&nbsp;</div><div>&nbsp; de FHA requeridos para el lugar donde está la propiedad</div><div>• Necesita vivir en la propiedad/Co-signer no necesita&nbsp;</div><div>&nbsp; &nbsp;vivir en la propiedad (FHA)</div><div>• Para casas, townhomes y condominios</div><div>• Necesita aprobación de crédito</div><div>• *Aplican restricciones</div>",
+          "_styles": {
+            "H3": {
+              "font-size": "18px"
+            },
+            "PRE": {
+              "font-size": "18px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "DIV": {
+              "color": "#020e31"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-article": {
+              "color": "#252525"
+            },
+            ".mbr-header .mbr-header__text SPAN": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-8",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#faaf40",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "<span style=\"font-weight: normal;\">Llame Hoy o Haga Click en el Botón Para<br>Obtener Más Información.</span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://cesarmarin.irvine.carringtonrealestate.com/contactus/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUIERO MAS INFORMACIÓN</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3",
+          "title": "LLAME HOY!<br>714.610.6809/ 949.203.4301",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015",
+          "_styles": {
+            "H3": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-7",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cres-logo-1-265x72.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>DIRECCIÓN</strong><br>\n111 Pacifica Suite 160<br>\nIrvine CA 92618",
+          "text2": "<strong>CONTACTOS</strong><br>\nEmail: <a href=\"mailto:caesarmarin@gmail.com\" class=\"text-white\">caesarmarin@gmail.com</a><br>\nMobile: 714.610.6809<br>\nOffice: 949.203.4301",
+          "text3": "<p class=\"mbr-contacts__text\"><font color=\"#fac51c\"><b>ENLACES</b></font></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://cesarmarin.irvine.carringtonrealestate.com/results/\" class=\"text-white\" target=\"_blank\">Casas Que Califican</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://longbeachhomes.github.io/sellyourhomeforfree/\" target=\"_blank\" class=\"text-white\">Venda Su Casa GRATIS</a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"http://cesarmarin.irvine.carringtonrealestate.com/contactus/\" target=\"_blank\" class=\"text-white\">Enviar Mensaje</a><a href=\"http://cesarmarin.irvine.carringtonrealestate.com/contactus/\" class=\"text-white\"></a><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "_styles": {
+            "STRONG": {
+              "color": "#fac51c"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Carrington Real Estate Services, 111 Pacifica Suite 160 Irvine CA 92618 (CalBRE#01854071/NMLS#2600)/Cesar Marin BRE#01274794/NMLS# 287752. (877) 330-2773. Copyright 2017. All Rights \nReserved. This is not an offer to enter into an agreement. Not all customers will qualify. Information, rates, and programs are subject to change without prior \nnotice. All products are subject to credit and property approval. Not all products are available in all states and for all loan amounts. Other restrictions and \nlimitations apply. CA: Licensed by the Department of Business Oversight under the \nCalifornia Residential Lending Act.&nbsp;",
+          "_styles": {
+            "P": {
+              "font-size": "10px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
