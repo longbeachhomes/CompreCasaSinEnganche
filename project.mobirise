@@ -129,7 +129,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Llame Hoy o Haga Click en el Botón Para<br>Obtener Más Información.</span>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"mailto:caesarmarin@gmail.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUIERO MAS INFORMACIÓN</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://cesarmarin.irvine.carringtonrealestate.com/contactus/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUIERO MAS INFORMACIÓN</a>"
         },
         {
           "_tags": [
